@@ -1,0 +1,1 @@
+Description of some project on GitHub
