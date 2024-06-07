@@ -1,4 +1,4 @@
-This is a project ib GitHub account.
+This is a project in GitHub account.
 
 
 1. Fork the wanted account.
